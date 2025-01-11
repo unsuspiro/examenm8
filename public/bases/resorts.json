@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "Grand Beach Resort",
+        "city": "Miami",
+        "country": "United States",
+        "stars": 5,
+        "price_per_night": 250,
+        "amenities": ["pool", "spa", "gym", "restaurant"],
+        "image": "https://example.com/images/resort1.jpg",
+        "tours":10,
+        "guides":1
+    },
+    {
+        "id": 2,
+        "name": "Mountain Adventure Lodge",
+        "city": "Whistler",
+        "country": "Canada",
+        "stars": 4,
+        "price_per_night": 180,
+        "amenities": ["skiing", "snowboarding", "hiking", "hot tub"],
+        "image": "https://example.com/images/resort2.jpg",
+        "tours":7,
+        "guides":1
+      },
+      {
+        "id": 3,
+        "name": "Sun Palace Resort",
+        "city": "Cancún",
+        "country": "Mexico",
+        "stars": 4.5,
+        "price_per_night": 300,
+        "amenities": ["pool", "spa", "gym", "restaurant", "kids club"],
+        "image": "https://example.com/images/resort3.jpg",
+        "tours":8,
+        "guides":1
+        },
+        {
+        "id": 4,
+        "name": "Alpine Meadows",
+        "city": "Lake Tahoe",
+        "country": "United States",
+        "stars": 4,
+        "price_per_night": 220,
+        "amenities": ["skiing", "snowboarding", "hiking", "fishing", "boat rentals"],
+        "image": "https://example.com/images/resort4.jpg",
+        "tours":17,
+        "guides":1
+        },
+        {
+        "id": 5,
+        "name": "Golden Sands Resort",
+        "city": "Playa del Carmen",
+        "country": "Mexico",
+        "stars": 5,
+        "price_per_night": 450,
+        "amenities": ["private beach", "infinity pool", "spa", "water sports", "multiple restaurants"],
+        "image": "https://example.com/images/resort5.jpg",
+        "tours":13,
+        "guides":2
+        },
+        {
+        "id": 6,
+        "name": "Black Bear Lodge",
+        "city": "Yellowstone National Park",
+        "country": "United States",
+        "stars": 3.5,
+        "price_per_night": 150,
+        "amenities": ["cabins", "campground", "fishing", "hiking", "wildlife viewing"],
+        "image": "https://example.com/images/resort6.jpg",
+        "tours":19,
+        "guides":2
+        },
+        {
+        "id": 7,
+        "name": "Riverdale Ranch",
+        "city": "Jackson Hole",
+        "country": "United States",
+        "stars": 4.5,
+        "price_per_night": 280,
+        "amenities": [" horseback riding", "fishing", "hiking", "camping", "dude ranch activities"],
+        "image": "https://example.com/images/resort7.jpg",
+        "tours":30,
+        "guides":2
+        }
+
+]
